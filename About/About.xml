@@ -8,7 +8,7 @@
     <li>1.7</li>
   </supportedVersions>
   <packageId>TSA.CE.RaidersPlaceSandbags</packageId>
-  <description>NPC pawns place temporary sandbags when shooting matching weapons (defaults target LMGs / CE machine guns). Hostiles always; neutrals and allies optional in settings (on by default). Player pawns never place sandbags.</description>
+  <description>Combat Extended version of RaidersPlaceSandbags. NPC pawns place temporary sandbags when shooting matching weapons (defaults target LMGs / CE machine guns). Hostiles always; neutrals and allies optional in settings (on by default). Player pawns never place sandbags. Vanilla (non-CE) version: https://steamcommunity.com/sharedfiles/filedetails/?id=3647607090</description>
   <modDependencies>
     <li>
 		<packageId>brrainz.harmony</packageId>
